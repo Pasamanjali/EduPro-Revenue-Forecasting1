@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>EduPro Dashboard</title>
+    <link rel="stylesheet" href="{{url_for('static',filename='css/style.css')}}">
+</head>
+<body>
+<div> class="container">
+<h1>EduPro Dashboard</h1>
+<div> class="result-card">
+    <h2>Total Courses </h2>
+    <h1>{{ total_courses }}</h1>
+
+    <h2>Total Students</h2> 
+    <h1>{{ total_students }}</h1>
+
+    <h2>Average Rating </h2> 
+    <h1>{{ average_rating }}</h1>
+
+    <h2>Highest Course Price<h2> 
+    <h1>₹{{ highest_price }}</h1>
+
+    <h2>Average Course Price </h2> 
+    <h1>₹{{ average_price }}</h1>
+</div>  
+
+<a href="/">
+    <button>Back to Home</button>
+</a>
+</div>
+
+</body>
+</html>

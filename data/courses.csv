@@ -1,0 +1,1001 @@
+Course,Category,Price,Rating,Duration,Marketing_Spend,Students_Enrolled,Revenue
+SQL Basics,Database,1704,4.7,35,10314,472,804288
+SQL Basics,Database,7043,4.7,54,5848,361,2542523
+AWS Cloud,Cloud,1744,3.9,34,19559,635,1107440
+Go Basics,Programming,3128,4.7,64,16746,679,2123912
+Docker & Kubernetes,Cloud,3778,4.8,20,8231,412,1556536
+Google Cloud,Cloud,3776,4.0,68,14029,519,1959744
+JavaScript Essentials,Programming,2292,4.2,42,11667,496,1136832
+JavaScript Essentials,Programming,5892,3.9,79,15403,536,3158112
+Cyber Security,Cyber Security,6649,4.5,75,14850,608,4042592
+Data Science,Data Science,1875,4.6,69,12482,577,1081875
+Content Marketing,Digital Marketing,2327,4.3,49,14954,562,1307774
+Angular,Web Development,3216,4.6,64,5339,405,1302480
+Advanced SQL,Database,5875,4.7,30,18147,622,3654250
+Flask,Web Development,3299,4.6,73,4832,385,1270115
+SEO,Digital Marketing,4084,4.3,24,9913,412,1682608
+Cyber Security,Cyber Security,3241,4.6,45,18035,655,2122855
+React,Web Development,3520,4.7,54,11609,559,1967680
+SOC Analyst,Cyber Security,6280,4.3,34,7532,319,2003320
+AWS Cloud,Cloud,7691,3.9,27,8008,260,1999660
+AI Fundamentals,Data Science,6385,3.9,44,18337,561,3581985
+Flask,Web Development,1594,4.6,27,11743,522,832068
+MongoDB,Database,2413,4.2,30,17867,574,1385062
+MongoDB,Database,5600,4.7,52,6486,409,2290400
+MongoDB,Database,6734,4.4,32,8008,325,2188550
+Content Marketing,Digital Marketing,5918,4.9,79,3018,379,2242922
+Django,Web Development,1659,3.9,43,13076,469,778071
+Java Programming,Programming,6147,4.9,25,18924,680,4179960
+Go Basics,Programming,7773,4.0,62,18574,625,4858125
+Network Security,Cyber Security,3671,4.4,58,16865,626,2298046
+Network Security,Cyber Security,7340,4.2,62,15236,539,3956260
+SOC Analyst,Cyber Security,2491,4.1,24,14078,455,1133405
+Pen Testing,Cyber Security,3385,4.5,20,5326,309,1045965
+SQL Basics,Database,3375,3.9,22,13827,413,1393875
+Network Security,Cyber Security,3781,4.6,33,7335,394,1489714
+Pen Testing,Cyber Security,5372,4.1,50,16338,539,2895508
+Python Programming,Programming,6898,4.3,47,16470,558,3849084
+SEO,Digital Marketing,7016,4.6,61,6224,338,2371408
+Google Cloud,Cloud,2395,4.1,32,17700,570,1365150
+Azure Fundamentals,Cloud,3781,4.4,75,5470,389,1470809
+Email Marketing,Digital Marketing,2302,3.9,54,3483,233,536366
+Content Marketing,Digital Marketing,2862,4.3,50,10004,479,1370898
+AWS Cloud,Cloud,2848,4.3,44,11690,513,1461024
+Google Ads,Digital Marketing,3836,4.3,66,18947,676,2593136
+Deep Learning,Data Science,3283,5.0,57,4997,438,1437954
+HTML & CSS,Web Development,1910,4.5,52,8158,421,804110
+Ethical Hacking,Cyber Security,3022,3.9,24,10707,364,1100008
+Go Basics,Programming,3516,4.5,22,5686,302,1061832
+Oracle DB,Database,6130,4.4,79,11544,504,3089520
+MongoDB,Database,3455,4.1,28,12830,448,1547840
+HTML & CSS,Web Development,1576,4.3,56,6276,363,572088
+Network Security,Cyber Security,5644,4.1,79,14436,590,3329960
+Java Programming,Programming,4527,4.1,48,12912,487,2204649
+Email Marketing,Digital Marketing,1564,4.6,55,12810,615,961860
+SQL Basics,Database,2600,4.1,76,6507,415,1079000
+Network Security,Cyber Security,3731,4.1,33,14235,474,1768494
+MongoDB,Database,5640,4.4,77,4664,327,1844280
+PostgreSQL,Database,3766,3.9,41,7286,319,1201354
+React,Web Development,7572,4.3,65,17014,605,4581060
+Python Programming,Programming,2116,4.9,64,7884,514,1087624
+C++ Programming,Programming,6271,4.5,47,7176,331,2075701
+Angular,Web Development,1826,4.9,33,11176,546,996996
+C++ Programming,Programming,7890,4.5,75,16316,632,4986480
+Advanced SQL,Database,3439,4.8,71,8801,545,1874255
+AWS Cloud,Cloud,2969,4.7,41,16491,666,1977354
+Advanced SQL,Database,3685,4.0,64,6542,343,1263955
+SEO,Digital Marketing,5355,4.1,72,18083,637,3411135
+React,Web Development,3326,3.8,32,16056,494,1643044
+HTML & CSS,Web Development,7835,4.1,61,19692,627,4912545
+Oracle DB,Database,4212,4.9,27,11559,483,2034396
+Cyber Security,Cyber Security,1813,3.9,47,14327,537,973581
+Social Media Marketing,Digital Marketing,5074,4.5,52,6789,368,1867232
+Network Security,Cyber Security,3586,3.9,47,3055,220,788920
+Email Marketing,Digital Marketing,7126,4.7,67,9456,462,3292212
+AWS Cloud,Cloud,6941,4.9,59,13286,587,4074367
+SEO,Digital Marketing,7396,4.9,52,13134,563,4163948
+Google Cloud,Cloud,4796,4.6,55,7170,387,1856052
+DevOps,Cloud,7048,4.7,31,12861,478,3368944
+Ethical Hacking,Cyber Security,3989,4.1,47,13559,498,1986522
+DevOps,Cloud,7034,4.1,50,8560,354,2490036
+C++ Programming,Programming,5722,4.6,59,13983,547,3129934
+Content Marketing,Digital Marketing,7011,4.2,71,9525,399,2797389
+Python Programming,Programming,3505,5.0,59,5386,431,1510655
+Docker & Kubernetes,Cloud,3092,4.7,44,19199,712,2201504
+Machine Learning,Data Science,6874,4.6,77,6492,425,2921450
+Azure Fundamentals,Cloud,2940,4.8,64,19972,789,2319660
+Go Basics,Programming,3541,4.9,27,17957,648,2294568
+Google Ads,Digital Marketing,6968,4.4,55,13397,539,3755752
+Google Ads,Digital Marketing,6518,4.8,77,19540,758,4940644
+Email Marketing,Digital Marketing,5152,4.9,67,18554,743,3827936
+React,Web Development,6723,4.1,69,18879,651,4376673
+Deep Learning,Data Science,5103,3.9,38,10683,358,1826874
+Angular,Web Development,5924,3.9,29,10577,334,1978616
+Advanced SQL,Database,7286,4.1,46,16356,516,3759576
+SOC Analyst,Cyber Security,4906,3.9,73,16767,589,2889634
+Email Marketing,Digital Marketing,7197,3.8,76,15464,528,3800016
+C++ Programming,Programming,3946,4.7,74,16730,708,2793768
+Oracle DB,Database,6441,4.9,51,10190,475,3059475
+DevOps,Cloud,1737,4.3,62,16248,664,1153368
+AI Fundamentals,Data Science,2545,5.0,54,3883,425,1081625
+Docker & Kubernetes,Cloud,6123,4.6,25,17044,553,3386019
+Google Ads,Digital Marketing,2988,3.9,44,13726,468,1398384
+Google Cloud,Cloud,4264,4.7,44,12117,543,2315352
+Google Ads,Digital Marketing,3566,4.8,50,3635,363,1294458
+Ethical Hacking,Cyber Security,4366,4.1,24,4319,235,1026010
+Java Programming,Programming,3133,4.8,59,7993,463,1450579
+AI Fundamentals,Data Science,6984,3.9,80,10142,417,2912328
+MongoDB,Database,7782,4.2,58,6753,334,2599188
+Content Marketing,Digital Marketing,4048,3.9,21,13222,419,1696112
+PostgreSQL,Database,4749,4.9,32,5490,360,1709640
+Advanced SQL,Database,2334,4.6,39,6966,418,975612
+Ethical Hacking,Cyber Security,4344,4.4,62,15142,574,2493456
+Cyber Security,Cyber Security,1603,4.8,72,19062,776,1243928
+Google Cloud,Cloud,6706,4.9,49,8013,423,2836638
+Data Analytics,Data Science,6828,4.1,71,18843,642,4383576
+Docker & Kubernetes,Cloud,3698,4.2,35,5839,284,1050232
+Azure Fundamentals,Cloud,7647,4.4,59,15418,550,4205850
+JavaScript Essentials,Programming,4162,4.0,33,14626,504,2097648
+Angular,Web Development,3790,4.9,64,12052,598,2266420
+Go Basics,Programming,3065,3.9,66,16317,594,1820610
+Network Security,Cyber Security,7157,4.4,65,19083,667,4773719
+SEO,Digital Marketing,2262,4.2,45,10972,453,1024686
+Oracle DB,Database,4523,4.4,53,14264,555,2510265
+Oracle DB,Database,4209,4.2,49,11877,459,1931931
+React,Web Development,2488,4.7,40,6917,426,1059888
+Network Security,Cyber Security,3069,4.1,50,12060,495,1519155
+Pen Testing,Cyber Security,6388,4.1,26,9360,310,1980280
+Deep Learning,Data Science,2969,4.2,65,7147,386,1146034
+Python Programming,Programming,6033,4.2,80,7137,401,2419233
+Google Ads,Digital Marketing,2340,4.8,56,12317,590,1380600
+DevOps,Cloud,4291,4.0,23,11273,408,1750728
+Google Ads,Digital Marketing,2434,4.8,45,19113,711,1730574
+Ethical Hacking,Cyber Security,2742,4.0,56,12956,480,1316160
+Data Science,Data Science,6071,4.7,58,10395,506,3071926
+SOC Analyst,Cyber Security,5190,4.9,39,17051,640,3321600
+Pen Testing,Cyber Security,1993,4.5,67,6251,459,914787
+Content Marketing,Digital Marketing,6624,4.1,62,5660,278,1841472
+Machine Learning,Data Science,6021,3.9,20,16386,464,2793744
+Oracle DB,Database,5349,4.1,34,12440,443,2369607
+Django,Web Development,2083,4.6,79,11668,619,1289377
+Email Marketing,Digital Marketing,6916,4.8,32,16930,577,3990532
+Network Security,Cyber Security,6805,4.0,37,7660,258,1755690
+Java Programming,Programming,7993,4.2,67,12457,471,3764703
+JavaScript Essentials,Programming,7141,4.2,45,11920,428,3056348
+SOC Analyst,Cyber Security,5086,3.9,22,17156,518,2634548
+Flask,Web Development,3551,3.8,34,3679,213,756363
+MongoDB,Database,6220,3.8,68,8740,356,2214320
+SOC Analyst,Cyber Security,3778,4.0,57,17283,612,2312136
+Google Ads,Digital Marketing,2247,4.4,46,13921,553,1242591
+SQL Basics,Database,2817,4.2,64,19235,689,1940913
+PostgreSQL,Database,7730,4.5,49,5885,302,2334460
+Angular,Web Development,2449,5.0,45,19862,801,1961649
+Go Basics,Programming,5284,4.3,32,19988,630,3328920
+SOC Analyst,Cyber Security,6623,4.3,23,9670,331,2192213
+Network Security,Cyber Security,3859,4.3,64,18883,668,2577812
+Go Basics,Programming,3460,4.7,39,3448,313,1082980
+AWS Cloud,Cloud,3340,5.0,78,6717,505,1686700
+Java Programming,Programming,5582,4.9,38,19674,725,4046950
+Django,Web Development,5452,5.0,35,17967,680,3707360
+AI Fundamentals,Data Science,3061,4.9,52,7473,489,1496829
+C++ Programming,Programming,7829,4.7,46,14137,564,4415556
+Email Marketing,Digital Marketing,3688,4.8,38,12783,572,2109536
+Pen Testing,Cyber Security,6906,4.4,29,17632,568,3922608
+Google Cloud,Cloud,4223,4.5,54,15360,602,2542246
+React,Web Development,7213,4.1,44,10653,404,2914052
+Google Ads,Digital Marketing,1857,4.2,50,15492,586,1088202
+Advanced SQL,Database,5557,5.0,28,19459,704,3912128
+HTML & CSS,Web Development,5106,3.9,78,17972,603,3078918
+Advanced SQL,Database,4858,4.8,29,5451,333,1617714
+Social Media Marketing,Digital Marketing,4273,4.5,45,5631,365,1559645
+Flask,Web Development,4613,4.9,60,18989,774,3570462
+Ethical Hacking,Cyber Security,6558,3.9,60,12416,424,2780592
+SQL Basics,Database,5055,5.0,68,6293,452,2284860
+Deep Learning,Data Science,1737,3.9,70,4838,319,554103
+Angular,Web Development,5028,4.0,53,16502,565,2840820
+Advanced SQL,Database,2892,4.0,59,15535,583,1686036
+Advanced SQL,Database,5576,4.9,29,10608,464,2587264
+MongoDB,Database,5264,4.1,20,18245,573,3016272
+Flask,Web Development,2794,3.9,80,14323,582,1626108
+Django,Web Development,7155,4.1,74,12899,479,3427245
+DevOps,Cloud,2373,4.1,56,14762,573,1359729
+Angular,Web Development,1679,5.0,62,15969,713,1197127
+Go Basics,Programming,7118,4.7,23,19276,649,4619582
+React,Web Development,6473,4.8,34,9230,426,2757498
+React,Web Development,6646,3.9,60,4291,225,1495350
+Google Ads,Digital Marketing,1773,4.5,66,7306,431,764163
+Angular,Web Development,7623,4.3,32,7330,311,2370753
+Cyber Security,Cyber Security,5848,4.4,37,8391,348,2035104
+Google Ads,Digital Marketing,3917,4.7,41,6773,389,1523713
+Java Programming,Programming,7678,5.0,75,16022,702,5389956
+Email Marketing,Digital Marketing,4496,3.9,45,3456,198,890208
+Ethical Hacking,Cyber Security,5225,4.2,67,11590,493,2575925
+Google Cloud,Cloud,2387,4.6,50,3820,350,835450
+Cyber Security,Cyber Security,6497,4.1,24,18213,566,3677302
+MongoDB,Database,6818,4.3,28,4485,252,1718136
+C++ Programming,Programming,5535,3.9,35,7445,272,1505520
+Google Cloud,Cloud,6992,4.9,64,16733,677,4733584
+Advanced SQL,Database,4898,4.6,73,19034,745,3649010
+Google Cloud,Cloud,1768,4.6,33,17528,656,1159808
+Deep Learning,Data Science,2313,5.0,43,14753,622,1438686
+Google Cloud,Cloud,3054,5.0,80,17900,768,2345472
+Advanced SQL,Database,6756,4.6,21,4657,269,1817364
+React,Web Development,2531,4.7,33,5248,376,951656
+Email Marketing,Digital Marketing,3197,4.5,72,10634,524,1675228
+Content Marketing,Digital Marketing,7960,4.9,20,12085,478,3804880
+Machine Learning,Data Science,5925,4.1,31,6602,280,1659000
+SEO,Digital Marketing,2579,3.8,70,10796,464,1196656
+HTML & CSS,Web Development,2927,4.1,28,16794,558,1633266
+Python Programming,Programming,5401,4.3,43,19817,660,3564660
+JavaScript Essentials,Programming,5627,4.1,59,4420,290,1631830
+Email Marketing,Digital Marketing,3970,4.3,21,4993,257,1020290
+Google Ads,Digital Marketing,4992,4.6,51,17534,627,3129984
+C++ Programming,Programming,6483,4.0,28,12011,388,2515404
+Oracle DB,Database,5992,4.7,44,12663,516,3091872
+Pen Testing,Cyber Security,5024,3.9,64,6749,349,1753376
+Oracle DB,Database,7405,4.8,47,17796,672,4976160
+AI Fundamentals,Data Science,4276,4.8,45,16631,668,2856368
+C++ Programming,Programming,4996,4.2,36,15265,498,2488008
+PostgreSQL,Database,2049,3.9,25,6054,264,540936
+C++ Programming,Programming,2565,4.5,57,13801,602,1544130
+JavaScript Essentials,Programming,4396,4.8,80,16858,751,3301396
+SQL Basics,Database,3856,4.5,42,6394,365,1407440
+Network Security,Cyber Security,2767,4.6,34,6546,365,1009955
+Email Marketing,Digital Marketing,4511,3.9,37,10410,390,1759290
+Docker & Kubernetes,Cloud,7786,4.8,59,3860,325,2530450
+MongoDB,Database,1737,4.0,64,13124,566,983142
+Angular,Web Development,1550,4.0,29,16132,519,804450
+Data Science,Data Science,2251,4.7,33,15327,605,1361855
+Google Cloud,Cloud,2789,4.2,66,13629,584,1628776
+Pen Testing,Cyber Security,2195,4.9,29,8158,464,1018480
+Ethical Hacking,Cyber Security,7021,3.9,48,16894,523,3671983
+SOC Analyst,Cyber Security,4892,4.1,68,19788,662,3238504
+Django,Web Development,2408,4.1,63,18945,688,1656704
+MongoDB,Database,1872,4.1,58,4795,298,557856
+Deep Learning,Data Science,3230,4.7,68,11372,555,1792650
+HTML & CSS,Web Development,1563,4.4,47,8757,423,661149
+Docker & Kubernetes,Cloud,7264,4.1,55,14605,474,3443136
+AWS Cloud,Cloud,5073,3.8,78,5551,336,1704528
+Flask,Web Development,5016,4.5,65,16686,636,3190176
+JavaScript Essentials,Programming,1670,5.0,30,18076,738,1232460
+MongoDB,Database,2221,4.3,26,10972,435,966135
+SOC Analyst,Cyber Security,5792,3.9,75,13167,515,2982880
+React,Web Development,4228,4.7,24,19727,686,2900408
+Go Basics,Programming,5677,4.0,69,14448,524,2974748
+Advanced SQL,Database,3435,3.9,36,9464,338,1161030
+Network Security,Cyber Security,7727,4.7,24,8804,389,3005803
+Google Ads,Digital Marketing,5300,4.7,68,17709,713,3778900
+Pen Testing,Cyber Security,4147,4.8,60,13359,581,2409407
+AWS Cloud,Cloud,5341,4.3,39,12000,458,2446178
+C++ Programming,Programming,5656,3.9,49,17808,536,3031616
+C++ Programming,Programming,3851,3.9,75,5958,351,1351701
+Pen Testing,Cyber Security,4649,4.4,55,4344,310,1441190
+Email Marketing,Digital Marketing,6839,4.0,58,18585,601,4110239
+Data Science,Data Science,5190,3.9,77,14253,552,2864880
+Go Basics,Programming,6793,4.0,35,17344,520,3532360
+Pen Testing,Cyber Security,6495,4.0,43,12269,409,2656455
+Google Cloud,Cloud,7061,4.5,70,13965,538,3798818
+HTML & CSS,Web Development,6070,4.6,38,11257,473,2871110
+Email Marketing,Digital Marketing,2731,4.2,57,7634,426,1163406
+Angular,Web Development,6874,4.6,45,7225,368,2529632
+SQL Basics,Database,4036,4.5,61,13763,601,2425636
+Data Analytics,Data Science,2265,4.6,47,19662,726,1644390
+C++ Programming,Programming,4030,4.0,33,14197,504,2031120
+Google Ads,Digital Marketing,3072,4.1,28,8077,309,949248
+HTML & CSS,Web Development,5658,4.7,73,4236,381,2155698
+Flask,Web Development,2573,4.5,29,8316,378,972594
+Email Marketing,Digital Marketing,2856,4.7,22,16463,600,1713600
+Advanced SQL,Database,5138,4.5,68,17710,662,3401356
+Network Security,Cyber Security,4035,5.0,70,18368,799,3223965
+Content Marketing,Digital Marketing,4513,4.6,56,17437,666,3005658
+Social Media Marketing,Digital Marketing,7874,4.3,53,16718,545,4291330
+Content Marketing,Digital Marketing,6453,4.0,36,4709,224,1445472
+Google Cloud,Cloud,6042,4.9,65,19905,788,4761096
+C++ Programming,Programming,2187,4.7,37,17723,704,1539648
+Network Security,Cyber Security,5083,3.9,78,10275,463,2353429
+Google Cloud,Cloud,1718,4.3,45,19449,687,1180266
+AI Fundamentals,Data Science,2168,4.2,21,13442,507,1099176
+C++ Programming,Programming,7982,4.0,22,12400,386,3081052
+Google Ads,Digital Marketing,7202,4.8,68,18371,703,5063006
+Ethical Hacking,Cyber Security,2149,3.8,33,7899,321,689829
+Oracle DB,Database,5823,4.3,69,12440,501,2917323
+HTML & CSS,Web Development,1891,4.1,60,17978,635,1200785
+JavaScript Essentials,Programming,6388,4.4,60,19887,695,4439660
+Machine Learning,Data Science,3886,4.3,59,14561,558,2168388
+SOC Analyst,Cyber Security,3034,4.6,25,14816,532,1614088
+Pen Testing,Cyber Security,5656,4.7,52,3666,306,1730736
+Google Ads,Digital Marketing,1856,4.6,43,11311,538,998528
+C++ Programming,Programming,7959,3.9,35,6396,241,1918119
+Cyber Security,Cyber Security,2592,3.9,54,14093,541,1402272
+Advanced SQL,Database,7882,4.6,64,18680,682,5375524
+Machine Learning,Data Science,2016,4.7,80,17997,744,1499904
+React,Web Development,1858,4.7,76,4373,416,772928
+Flask,Web Development,4762,5.0,54,18512,721,3433402
+Java Programming,Programming,3843,4.2,69,4566,357,1371951
+MongoDB,Database,3738,3.9,43,17318,590,2205420
+DevOps,Cloud,4667,4.2,31,19259,627,2926209
+Google Cloud,Cloud,5753,4.1,25,16910,491,2824723
+Docker & Kubernetes,Cloud,2978,4.5,40,6361,340,1012520
+Angular,Web Development,4010,4.3,65,16962,623,2498230
+PostgreSQL,Database,4379,4.3,66,14552,590,2583610
+Google Cloud,Cloud,6738,5.0,80,4879,395,2661510
+PostgreSQL,Database,4476,4.4,67,8242,466,2085816
+Java Programming,Programming,6477,4.6,48,4140,272,1761744
+Java Programming,Programming,7877,4.6,43,15545,582,4584414
+Ethical Hacking,Cyber Security,6456,4.0,48,15155,491,3169896
+AWS Cloud,Cloud,6201,4.0,43,16042,503,3119103
+MongoDB,Database,3544,5.0,21,9096,450,1594800
+SOC Analyst,Cyber Security,6101,3.9,69,11529,456,2782056
+Azure Fundamentals,Cloud,6512,4.1,78,19095,649,4226288
+Java Programming,Programming,2106,4.3,77,17585,682,1436292
+Social Media Marketing,Digital Marketing,6970,4.2,24,12514,428,2983160
+React,Web Development,7331,4.7,64,8704,461,3379591
+Flask,Web Development,3336,3.9,32,7550,288,960768
+Google Ads,Digital Marketing,1715,4.2,56,15088,594,1018710
+Email Marketing,Digital Marketing,2563,4.5,25,5154,299,766337
+DevOps,Cloud,5806,4.3,46,5416,272,1579232
+HTML & CSS,Web Development,5186,4.4,53,14289,528,2738208
+Email Marketing,Digital Marketing,6741,4.5,69,7228,395,2662695
+Ethical Hacking,Cyber Security,2517,4.4,39,8395,388,976596
+React,Web Development,4334,4.9,53,12307,595,2578730
+C++ Programming,Programming,3108,4.6,55,11993,524,1628592
+MongoDB,Database,6533,4.4,52,8525,394,2574002
+Network Security,Cyber Security,2902,4.6,66,14063,646,1874692
+Ethical Hacking,Cyber Security,1732,3.9,80,11672,533,923156
+Data Analytics,Data Science,4912,4.5,21,19319,653,3207536
+Oracle DB,Database,3872,4.6,39,18825,661,2559392
+Google Ads,Digital Marketing,3936,4.3,64,4963,322,1267392
+DevOps,Cloud,5466,4.4,41,7707,348,1902168
+Social Media Marketing,Digital Marketing,7514,5.0,42,16065,593,4455802
+Social Media Marketing,Digital Marketing,5718,4.5,40,10921,444,2538792
+C++ Programming,Programming,5183,4.1,26,4658,207,1072881
+Docker & Kubernetes,Cloud,4925,4.1,75,8233,432,2127600
+Flask,Web Development,7407,4.2,68,8221,377,2792439
+SOC Analyst,Cyber Security,5585,4.9,51,3759,313,1748105
+Docker & Kubernetes,Cloud,5245,5.0,33,14563,561,2942445
+C++ Programming,Programming,5554,4.5,73,18420,689,3826706
+Ethical Hacking,Cyber Security,2380,4.3,76,11666,569,1354220
+Django,Web Development,4497,3.9,23,9378,309,1389573
+Cyber Security,Cyber Security,2102,4.3,48,12165,535,1124570
+Pen Testing,Cyber Security,2473,4.0,26,15907,515,1273595
+Social Media Marketing,Digital Marketing,6069,4.9,68,7727,447,2712843
+Pen Testing,Cyber Security,4788,4.4,22,4275,221,1058148
+MongoDB,Database,5380,4.4,29,19892,618,3324840
+Flask,Web Development,4109,4.0,59,12805,497,2042173
+Flask,Web Development,5675,4.4,65,12823,531,3013425
+SEO,Digital Marketing,4517,4.2,27,16649,548,2475316
+HTML & CSS,Web Development,6389,4.4,61,10456,471,3009219
+Go Basics,Programming,5435,4.0,60,15458,521,2831635
+Content Marketing,Digital Marketing,1758,4.5,64,6601,417,733086
+JavaScript Essentials,Programming,4069,4.3,46,9681,419,1704911
+Pen Testing,Cyber Security,5363,4.8,67,5040,407,2182741
+Data Analytics,Data Science,3198,4.5,62,18675,717,2292966
+Google Cloud,Cloud,2918,4.4,54,14217,582,1698276
+Angular,Web Development,6497,4.4,35,12142,449,2917153
+React,Web Development,3938,4.7,65,9792,527,2075326
+PostgreSQL,Database,4097,4.4,55,11960,497,2036209
+Go Basics,Programming,7042,4.5,77,15928,650,4577300
+React,Web Development,3879,3.9,65,5589,305,1183095
+Google Cloud,Cloud,7622,4.4,32,11884,446,3399412
+Cyber Security,Cyber Security,2624,3.9,67,10840,449,1178176
+Go Basics,Programming,3348,4.6,23,6283,333,1114884
+Django,Web Development,2323,4.6,28,3169,287,666701
+AI Fundamentals,Data Science,6848,4.9,76,18587,743,5088064
+Advanced SQL,Database,7692,5.0,40,12352,527,4053684
+Python Programming,Programming,6843,4.5,54,4222,320,2189760
+AI Fundamentals,Data Science,2940,4.9,22,16008,639,1878660
+Azure Fundamentals,Cloud,7635,5.0,79,12485,624,4764240
+Python Programming,Programming,3944,4.5,26,13978,504,1987776
+Docker & Kubernetes,Cloud,5795,4.4,80,7397,448,2596160
+SOC Analyst,Cyber Security,3735,4.0,27,13835,437,1632195
+PostgreSQL,Database,6810,4.1,31,3461,196,1334760
+Angular,Web Development,6151,4.6,32,8750,390,2398890
+Google Ads,Digital Marketing,5003,4.4,25,16134,554,2771662
+Java Programming,Programming,2651,4.4,79,11128,525,1391775
+Django,Web Development,3429,4.3,37,13801,505,1731645
+Pen Testing,Cyber Security,1593,4.1,43,10743,423,673839
+SQL Basics,Database,5312,4.2,45,19466,667,3543104
+MongoDB,Database,7154,3.9,78,12667,468,3348072
+Network Security,Cyber Security,3295,4.9,50,8019,470,1548650
+Oracle DB,Database,4560,4.3,55,18428,671,3059760
+Network Security,Cyber Security,7741,4.1,68,5682,300,2322300
+Docker & Kubernetes,Cloud,7265,4.2,78,6676,333,2419245
+Email Marketing,Digital Marketing,5640,4.0,54,7910,319,1799160
+Flask,Web Development,5119,3.9,33,19017,544,2784736
+SOC Analyst,Cyber Security,1955,4.3,52,16612,633,1237515
+Ethical Hacking,Cyber Security,6077,4.4,71,13098,561,3409197
+JavaScript Essentials,Programming,3584,4.8,67,10140,549,1967616
+Python Programming,Programming,4970,4.2,24,4974,267,1326990
+JavaScript Essentials,Programming,1759,4.1,31,7437,360,633240
+PostgreSQL,Database,4567,5.0,44,17697,722,3297374
+DevOps,Cloud,2157,4.6,62,7357,467,1007319
+Social Media Marketing,Digital Marketing,2471,4.0,54,15879,581,1435651
+Machine Learning,Data Science,1528,4.7,39,18171,714,1090992
+Oracle DB,Database,4974,4.4,72,10525,481,2392494
+Google Cloud,Cloud,2770,4.1,79,6697,378,1047060
+Google Ads,Digital Marketing,6537,4.7,76,3512,331,2163747
+Data Science,Data Science,2326,4.5,48,4595,330,767580
+SQL Basics,Database,4795,4.3,54,10119,459,2200905
+SEO,Digital Marketing,2647,4.4,38,10673,483,1278501
+Oracle DB,Database,4112,4.5,69,13507,573,2356176
+React,Web Development,6908,4.4,46,12846,465,3212220
+Go Basics,Programming,6346,4.9,78,8738,517,3280882
+PostgreSQL,Database,6053,4.4,42,15489,567,3432051
+Cyber Security,Cyber Security,7204,4.3,29,12826,422,3040088
+Data Analytics,Data Science,5379,4.1,34,12854,462,2485098
+Advanced SQL,Database,5293,4.9,55,16522,664,3514552
+Pen Testing,Cyber Security,2598,4.3,36,9662,412,1070376
+SQL Basics,Database,5184,4.8,25,9241,389,2016576
+Django,Web Development,7018,4.5,22,5384,236,1656248
+Email Marketing,Digital Marketing,7433,4.6,33,18708,599,4452367
+Social Media Marketing,Digital Marketing,3983,4.9,20,9940,479,1907857
+Data Science,Data Science,7618,5.0,50,10949,516,3930888
+Network Security,Cyber Security,4749,4.9,55,13538,620,2944380
+Django,Web Development,5319,4.4,42,13106,483,2569077
+Flask,Web Development,5573,4.4,71,18384,701,3906673
+Social Media Marketing,Digital Marketing,3164,4.2,46,4498,298,942872
+Content Marketing,Digital Marketing,7572,4.0,36,16683,486,3679992
+Machine Learning,Data Science,4202,4.1,56,11052,452,1899304
+Cyber Security,Cyber Security,3608,4.7,51,19075,720,2597760
+Deep Learning,Data Science,2886,4.0,54,19001,631,1821066
+Ethical Hacking,Cyber Security,5792,3.8,74,5435,321,1859232
+SEO,Digital Marketing,7761,3.8,28,10583,277,2149797
+Advanced SQL,Database,1574,4.1,49,15229,548,862552
+Pen Testing,Cyber Security,5458,4.6,21,3216,234,1277172
+SOC Analyst,Cyber Security,1597,3.8,66,12002,496,792112
+HTML & CSS,Web Development,5614,4.8,63,17109,704,3952256
+Data Science,Data Science,2289,4.4,35,9289,434,993426
+Cyber Security,Cyber Security,4403,4.1,45,5589,283,1246049
+DevOps,Cloud,6128,4.1,64,10400,416,2549248
+SQL Basics,Database,6855,5.0,61,4038,336,2303280
+DevOps,Cloud,4589,4.5,23,3309,249,1142661
+Data Science,Data Science,5594,4.8,61,13855,604,3378776
+SEO,Digital Marketing,5826,4.9,34,9927,482,2808132
+Email Marketing,Digital Marketing,5395,4.1,79,5436,355,1915225
+Flask,Web Development,6116,4.6,31,13305,465,2843940
+Data Analytics,Data Science,2681,4.7,65,16051,714,1914234
+C++ Programming,Programming,2830,4.5,56,15751,647,1831010
+Cyber Security,Cyber Security,4644,4.7,28,5569,327,1518588
+MongoDB,Database,1939,3.9,34,5490,264,511896
+Pen Testing,Cyber Security,6379,4.3,69,13694,511,3259669
+MongoDB,Database,7918,5.0,51,10475,480,3800640
+SOC Analyst,Cyber Security,5037,4.0,57,15454,516,2599092
+Email Marketing,Digital Marketing,3919,4.8,65,5408,391,1532329
+React,Web Development,4612,4.7,60,8055,468,2158416
+Google Cloud,Cloud,4454,3.9,20,13101,401,1786054
+Angular,Web Development,2337,4.0,31,17122,562,1313394
+Pen Testing,Cyber Security,5697,4.3,21,5936,251,1429947
+Ethical Hacking,Cyber Security,6390,4.5,40,15623,524,3348360
+Django,Web Development,4676,4.7,66,10954,541,2529716
+Network Security,Cyber Security,7114,4.3,28,11811,391,2781574
+Django,Web Development,2695,3.9,47,12042,449,1210055
+Django,Web Development,7911,3.9,36,11080,358,2832138
+PostgreSQL,Database,6364,4.5,49,6505,323,2055572
+HTML & CSS,Web Development,4741,4.2,59,15448,593,2811413
+Social Media Marketing,Digital Marketing,5106,4.2,72,7460,383,1955598
+Flask,Web Development,7195,4.0,40,8820,309,2223255
+Angular,Web Development,7520,4.6,51,10943,447,3361440
+Google Cloud,Cloud,7937,4.3,27,9547,340,2698580
+Network Security,Cyber Security,7084,4.7,21,18126,624,4420416
+Advanced SQL,Database,5091,4.8,73,5266,436,2219676
+Google Ads,Digital Marketing,7013,4.4,60,12923,492,3450396
+React,Web Development,7359,4.3,44,5423,269,1979571
+SOC Analyst,Cyber Security,6269,4.3,52,16706,587,3679903
+C++ Programming,Programming,7247,4.9,54,5784,350,2536450
+Content Marketing,Digital Marketing,6887,4.6,30,4451,267,1838829
+PostgreSQL,Database,7665,4.2,70,17105,575,4407375
+Python Programming,Programming,3619,4.1,67,19999,709,2565871
+Pen Testing,Cyber Security,3310,4.3,45,18173,661,2187910
+Oracle DB,Database,7156,4.4,42,3804,241,1724596
+C++ Programming,Programming,4907,4.9,25,6803,393,1928451
+Advanced SQL,Database,4353,4.2,49,9778,419,1823907
+Google Cloud,Cloud,5400,3.9,66,17825,592,3196800
+C++ Programming,Programming,1866,4.8,27,3740,348,649368
+HTML & CSS,Web Development,7047,4.8,79,10992,547,3854709
+Data Analytics,Data Science,2811,4.2,47,18140,624,1754064
+Google Ads,Digital Marketing,6658,4.0,60,17160,564,3755112
+Go Basics,Programming,3116,4.3,47,15741,558,1738728
+Advanced SQL,Database,3185,4.1,65,5050,338,1076530
+Go Basics,Programming,3031,4.2,32,17993,580,1757980
+Django,Web Development,5823,5.0,40,15734,633,3685959
+Docker & Kubernetes,Cloud,2435,4.2,74,18003,704,1714240
+Deep Learning,Data Science,6533,4.5,63,7389,383,2502139
+Java Programming,Programming,4001,3.9,43,7632,320,1280320
+DevOps,Cloud,6385,4.0,44,16862,514,3281890
+Docker & Kubernetes,Cloud,7180,4.9,79,8676,502,3604360
+AI Fundamentals,Data Science,3866,4.0,40,17778,589,2277074
+C++ Programming,Programming,1578,4.4,32,15581,590,931020
+SOC Analyst,Cyber Security,4851,4.6,46,17544,646,3133746
+Data Science,Data Science,6131,3.8,68,10226,383,2348173
+C++ Programming,Programming,3341,4.4,30,17985,625,2088125
+PostgreSQL,Database,6003,4.4,56,6742,344,2065032
+Email Marketing,Digital Marketing,4505,4.5,68,4363,370,1666850
+PostgreSQL,Database,5975,4.1,47,6355,311,1858225
+Content Marketing,Digital Marketing,3938,4.8,22,17736,624,2457312
+HTML & CSS,Web Development,5096,4.8,27,10764,442,2252432
+Email Marketing,Digital Marketing,7145,4.2,65,17030,574,4101230
+Network Security,Cyber Security,7929,4.0,33,4945,200,1585800
+Flask,Web Development,3802,4.5,30,13605,531,2018862
+Angular,Web Development,6191,4.1,74,19856,710,4395610
+SQL Basics,Database,2610,5.0,70,16487,771,2012310
+C++ Programming,Programming,6873,4.0,75,7348,336,2309328
+Deep Learning,Data Science,3527,4.7,63,15868,667,2352509
+Data Analytics,Data Science,6680,4.1,46,15293,504,3366720
+Python Programming,Programming,4800,4.4,37,15093,542,2601600
+Google Cloud,Cloud,6267,3.8,69,6052,306,1917702
+Google Cloud,Cloud,2018,4.8,45,10137,515,1039270
+Content Marketing,Digital Marketing,5552,4.1,73,12292,490,2720480
+Pen Testing,Cyber Security,2569,4.5,51,14263,617,1585073
+SQL Basics,Database,1876,3.9,70,18059,631,1183756
+Java Programming,Programming,5115,4.3,47,9629,424,2168760
+Deep Learning,Data Science,2802,4.8,76,11979,591,1655982
+MongoDB,Database,3551,3.9,62,8423,355,1260605
+Google Cloud,Cloud,7447,4.6,34,17065,588,4378836
+Python Programming,Programming,1508,4.1,24,7348,335,505180
+Data Analytics,Data Science,7070,4.3,20,14258,470,3322900
+JavaScript Essentials,Programming,7185,4.0,24,10502,318,2284830
+Python Programming,Programming,2345,4.2,76,12805,548,1285060
+Azure Fundamentals,Cloud,6755,5.0,29,5241,331,2235905
+Ethical Hacking,Cyber Security,6499,4.6,48,14507,569,3697931
+Machine Learning,Data Science,4872,4.5,48,10118,427,2080344
+Java Programming,Programming,7664,3.9,66,15583,509,3900976
+Google Cloud,Cloud,7980,4.0,37,5760,207,1651860
+Pen Testing,Cyber Security,6415,4.7,38,3878,304,1950160
+Social Media Marketing,Digital Marketing,3183,4.4,52,9181,462,1470546
+Google Cloud,Cloud,6793,3.9,77,10842,433,2941369
+AWS Cloud,Cloud,3474,4.4,58,5326,360,1250640
+C++ Programming,Programming,4092,4.0,75,16790,615,2516580
+Network Security,Cyber Security,7748,4.4,69,5391,298,2308904
+Ethical Hacking,Cyber Security,1612,4.1,22,4981,294,473928
+Google Ads,Digital Marketing,5650,4.1,65,19418,679,3836350
+DevOps,Cloud,7249,4.3,60,8003,356,2580644
+C++ Programming,Programming,2147,4.4,33,8091,397,852359
+Django,Web Development,6304,4.6,73,5166,361,2275744
+PostgreSQL,Database,7479,4.9,35,4897,295,2206305
+JavaScript Essentials,Programming,2450,4.3,58,4803,334,818300
+Advanced SQL,Database,2478,3.8,28,3371,169,418782
+Google Cloud,Cloud,5784,4.4,72,11495,491,2839944
+React,Web Development,7642,4.7,37,6868,357,2728194
+C++ Programming,Programming,5017,4.1,24,11616,406,2036902
+Ethical Hacking,Cyber Security,5564,4.3,43,4816,277,1541228
+Email Marketing,Digital Marketing,2867,4.2,36,6371,350,1003450
+Ethical Hacking,Cyber Security,3371,4.7,20,4443,320,1078720
+SEO,Digital Marketing,3503,3.9,43,15549,550,1926650
+Machine Learning,Data Science,1789,4.5,78,16741,700,1252300
+React,Web Development,4909,4.9,40,11888,549,2695041
+Go Basics,Programming,4554,3.9,63,4725,260,1184040
+Data Analytics,Data Science,1876,4.9,24,18240,717,1345092
+Angular,Web Development,4181,3.9,49,3261,212,886372
+Deep Learning,Data Science,6118,4.7,67,10948,518,3169124
+Flask,Web Development,5541,5.0,69,9403,543,3008763
+Network Security,Cyber Security,2733,3.8,46,3783,216,590328
+Cyber Security,Cyber Security,6709,4.8,76,3314,380,2549420
+HTML & CSS,Web Development,7717,4.6,74,13076,530,4090010
+Data Analytics,Data Science,3451,4.3,23,7665,349,1204399
+HTML & CSS,Web Development,1859,4.9,77,16535,770,1431430
+Django,Web Development,7626,3.9,26,19561,515,3927390
+PostgreSQL,Database,2113,4.5,23,17253,626,1322738
+Machine Learning,Data Science,3889,4.1,40,15876,558,2170062
+Social Media Marketing,Digital Marketing,4105,4.3,34,5447,322,1321810
+Machine Learning,Data Science,7889,4.7,26,8092,319,2516591
+AI Fundamentals,Data Science,5317,4.2,27,14740,503,2674451
+AI Fundamentals,Data Science,4025,4.4,74,6929,397,1597925
+Deep Learning,Data Science,7272,4.6,22,10045,403,2930616
+Social Media Marketing,Digital Marketing,2715,3.9,35,14656,489,1327635
+Ethical Hacking,Cyber Security,7047,4.2,72,8697,372,2621484
+DevOps,Cloud,6054,4.7,35,6103,333,2015982
+Java Programming,Programming,2494,3.8,73,10283,429,1069926
+AI Fundamentals,Data Science,4549,4.6,80,5753,429,1951521
+Cyber Security,Cyber Security,2114,3.8,24,9479,365,771610
+PostgreSQL,Database,2555,3.9,74,13864,531,1356705
+JavaScript Essentials,Programming,1914,4.0,56,17193,643,1230702
+PostgreSQL,Database,5564,3.8,63,16980,541,3010124
+React,Web Development,3033,4.1,48,7870,342,1037286
+Pen Testing,Cyber Security,6554,4.1,38,19347,589,3860306
+SOC Analyst,Cyber Security,1999,3.9,44,7496,338,675662
+Data Analytics,Data Science,3541,4.6,71,3639,358,1267678
+Social Media Marketing,Digital Marketing,5429,4.5,51,14273,582,3159678
+Pen Testing,Cyber Security,4134,4.3,31,3854,236,975624
+Network Security,Cyber Security,1740,4.9,69,12205,606,1054440
+Google Ads,Digital Marketing,5837,4.2,57,10627,414,2416518
+Java Programming,Programming,6881,4.1,54,4832,276,1899156
+Data Analytics,Data Science,4681,4.2,73,8692,413,1933253
+Data Analytics,Data Science,4105,4.8,64,14756,673,2762665
+Ethical Hacking,Cyber Security,7262,4.6,80,7656,442,3209804
+AI Fundamentals,Data Science,5941,4.2,51,4243,236,1402076
+Java Programming,Programming,6428,4.1,53,18662,578,3715384
+Flask,Web Development,3150,4.8,41,8815,491,1546650
+Social Media Marketing,Digital Marketing,1987,3.8,57,7641,379,753073
+Go Basics,Programming,4489,5.0,43,15962,659,2958251
+C++ Programming,Programming,3972,4.2,30,17315,591,2347452
+PostgreSQL,Database,6818,4.2,65,14692,524,3572632
+Oracle DB,Database,2936,4.3,66,12650,529,1553144
+Data Science,Data Science,7250,4.9,45,4061,293,2124250
+Cyber Security,Cyber Security,6508,4.1,56,6411,335,2180180
+Azure Fundamentals,Cloud,4212,4.7,35,14364,554,2333448
+Data Science,Data Science,7307,4.6,66,14001,564,4121148
+C++ Programming,Programming,3217,4.1,24,14484,471,1515207
+SEO,Digital Marketing,7401,3.8,44,17359,525,3885525
+Azure Fundamentals,Cloud,4891,4.4,44,14509,545,2665595
+AWS Cloud,Cloud,5427,4.7,56,10391,471,2556117
+AWS Cloud,Cloud,1773,4.2,40,11556,504,893592
+Python Programming,Programming,4300,4.0,44,8272,361,1552300
+Go Basics,Programming,2262,4.2,59,18818,703,1590186
+JavaScript Essentials,Programming,6854,4.0,76,17227,581,3982174
+Python Programming,Programming,4212,4.0,32,16411,539,2270268
+Pen Testing,Cyber Security,3673,4.6,39,10783,453,1663869
+JavaScript Essentials,Programming,6183,4.5,51,8032,362,2238246
+HTML & CSS,Web Development,5002,3.9,72,18739,623,3116246
+Python Programming,Programming,3195,4.0,38,5684,282,900990
+SEO,Digital Marketing,4026,4.7,50,19026,740,2979240
+MongoDB,Database,2246,4.6,44,9058,455,1021930
+Google Cloud,Cloud,3028,4.3,36,17409,608,1841024
+React,Web Development,3700,4.5,29,6168,304,1124800
+MongoDB,Database,5935,4.3,68,10455,468,2777580
+JavaScript Essentials,Programming,5780,4.3,54,18559,645,3728100
+AI Fundamentals,Data Science,3948,3.9,77,4137,302,1192296
+Pen Testing,Cyber Security,6181,4.6,59,7831,389,2404409
+Google Ads,Digital Marketing,2916,4.9,30,9943,505,1472580
+Machine Learning,Data Science,1849,4.3,63,17266,656,1212944
+Content Marketing,Digital Marketing,6374,4.1,78,5195,297,1893078
+Docker & Kubernetes,Cloud,4755,4.5,74,12050,556,2643780
+AWS Cloud,Cloud,7943,4.6,57,16749,586,4654598
+Azure Fundamentals,Cloud,2714,4.5,57,6283,430,1167020
+Go Basics,Programming,7886,3.9,38,14267,452,3564472
+Google Cloud,Cloud,4637,4.6,56,18500,664,3078968
+Deep Learning,Data Science,4801,4.0,58,16163,536,2573336
+Google Cloud,Cloud,7156,4.1,67,18571,652,4665712
+Angular,Web Development,1665,4.2,70,12930,559,930735
+Django,Web Development,7203,4.6,75,10469,475,3421425
+Django,Web Development,7840,4.8,37,16656,600,4704000
+SQL Basics,Database,3039,4.3,78,16342,683,2075637
+Docker & Kubernetes,Cloud,4563,4.8,52,8209,426,1943838
+Flask,Web Development,4804,4.0,74,3948,271,1301884
+Machine Learning,Data Science,1972,4.1,49,4656,333,656676
+React,Web Development,3744,4.2,49,19551,662,2478528
+SQL Basics,Database,7080,3.8,43,19016,560,3964800
+Azure Fundamentals,Cloud,5387,4.5,42,14280,517,2785079
+Social Media Marketing,Digital Marketing,7635,4.8,25,12341,434,3313590
+AWS Cloud,Cloud,2834,4.8,69,10022,577,1635218
+Machine Learning,Data Science,7051,4.0,61,16418,550,3878050
+Python Programming,Programming,5383,4.9,61,8675,491,2643053
+SEO,Digital Marketing,3333,4.1,71,13009,556,1853148
+MongoDB,Database,4971,4.9,74,14426,657,3265947
+React,Web Development,5323,4.2,53,16013,574,3055402
+Python Programming,Programming,5690,5.0,73,15262,685,3897650
+Oracle DB,Database,6489,4.1,63,6542,324,2102436
+C++ Programming,Programming,3764,4.6,75,12072,566,2130424
+MongoDB,Database,3043,4.0,68,10874,500,1521500
+Go Basics,Programming,4810,4.6,63,7585,447,2150070
+JavaScript Essentials,Programming,3921,4.1,46,16257,559,2191839
+SQL Basics,Database,6276,4.6,56,9223,431,2704956
+Advanced SQL,Database,7122,4.4,70,18588,695,4949790
+MongoDB,Database,5655,4.2,30,8935,328,1854840
+JavaScript Essentials,Programming,2548,4.7,66,8998,543,1383564
+MongoDB,Database,6861,3.9,42,10318,365,2504265
+Social Media Marketing,Digital Marketing,4944,4.7,41,15179,573,2832912
+Cyber Security,Cyber Security,5299,4.8,50,4758,377,1997723
+Oracle DB,Database,6253,4.9,24,18473,669,4183257
+Data Analytics,Data Science,2481,4.8,44,12776,572,1419132
+Java Programming,Programming,2625,5.0,41,16408,689,1808625
+Azure Fundamentals,Cloud,4091,4.8,31,5648,353,1444123
+React,Web Development,4067,4.6,20,17812,597,2427999
+Machine Learning,Data Science,6220,4.7,51,5884,337,2096140
+SOC Analyst,Cyber Security,6689,4.3,47,18643,610,4080290
+Python Programming,Programming,5872,4.0,43,3461,230,1350560
+Flask,Web Development,3061,3.8,20,11153,344,1052984
+MongoDB,Database,4056,4.0,44,19493,635,2575560
+React,Web Development,2034,4.8,39,12529,564,1147176
+Oracle DB,Database,6385,4.4,47,7384,341,2177285
+Google Cloud,Cloud,7644,4.0,80,16218,544,4158336
+Machine Learning,Data Science,7456,5.0,33,3718,296,2206976
+Network Security,Cyber Security,2508,4.2,61,4224,318,797544
+MongoDB,Database,7818,4.4,23,4571,226,1766868
+Python Programming,Programming,1895,4.6,46,17559,677,1282915
+Go Basics,Programming,3570,4.4,29,9733,422,1506540
+SQL Basics,Database,3966,4.3,26,11846,447,1772802
+Network Security,Cyber Security,4931,4.8,26,19763,700,3451700
+Ethical Hacking,Cyber Security,3815,3.9,26,19309,561,2140215
+Network Security,Cyber Security,7873,4.1,53,9608,355,2794915
+PostgreSQL,Database,3919,4.0,55,19264,674,2641406
+AI Fundamentals,Data Science,4208,4.1,20,5916,279,1174032
+Go Basics,Programming,6980,4.4,80,5951,392,2736160
+Ethical Hacking,Cyber Security,7427,4.7,77,11385,544,4040288
+AI Fundamentals,Data Science,3925,4.1,23,6270,291,1142175
+Data Science,Data Science,3880,4.2,63,13246,533,2068040
+SQL Basics,Database,2278,4.8,76,4503,406,924868
+Content Marketing,Digital Marketing,6934,4.6,41,14715,566,3924644
+Docker & Kubernetes,Cloud,3697,4.9,25,15210,618,2284746
+React,Web Development,2432,4.3,49,11907,528,1284096
+DevOps,Cloud,4954,4.6,71,8465,444,2199576
+Data Science,Data Science,2805,3.9,78,18816,704,1974720
+SOC Analyst,Cyber Security,2984,4.5,69,14750,642,1915728
+Java Programming,Programming,5457,4.9,27,16476,607,3312399
+Python Programming,Programming,3643,4.6,20,10339,440,1602920
+Social Media Marketing,Digital Marketing,5752,4.4,64,6120,358,2059216
+Advanced SQL,Database,5447,4.2,63,15611,555,3023085
+Email Marketing,Digital Marketing,6520,3.9,61,8142,338,2203760
+Google Ads,Digital Marketing,5561,4.8,24,19110,646,3592406
+Deep Learning,Data Science,3778,3.9,34,15407,492,1858776
+Content Marketing,Digital Marketing,2145,4.4,71,17683,684,1467180
+Google Ads,Digital Marketing,5162,4.2,51,3582,231,1192422
+DevOps,Cloud,1793,4.5,20,5978,351,629343
+Pen Testing,Cyber Security,6722,4.2,52,9778,403,2708966
+PostgreSQL,Database,4292,4.2,23,10304,401,1721092
+Google Cloud,Cloud,6088,4.7,58,18503,705,4292040
+MongoDB,Database,7364,4.3,26,10266,326,2400664
+Angular,Web Development,6690,5.0,38,15251,611,4087590
+Python Programming,Programming,2844,4.4,72,16409,646,1837224
+Flask,Web Development,3104,4.0,79,15874,603,1871712
+Azure Fundamentals,Cloud,7371,4.2,68,16581,558,4113018
+Oracle DB,Database,2509,4.7,48,17987,714,1791426
+Pen Testing,Cyber Security,2602,5.0,20,4591,351,913302
+Docker & Kubernetes,Cloud,5456,4.9,69,8806,515,2809840
+Network Security,Cyber Security,7484,4.8,26,15694,562,4206008
+Pen Testing,Cyber Security,4136,4.4,44,16718,614,2539504
+Advanced SQL,Database,3741,4.3,41,12639,489,1829349
+Content Marketing,Digital Marketing,2631,4.3,64,19786,718,1889058
+Email Marketing,Digital Marketing,4071,4.7,79,10121,530,2157630
+Data Analytics,Data Science,7352,4.1,42,7347,306,2249712
+Advanced SQL,Database,5627,4.5,60,13563,567,3190509
+C++ Programming,Programming,6106,4.4,56,16679,617,3767402
+Oracle DB,Database,3842,4.9,47,3418,346,1329332
+Python Programming,Programming,4620,4.0,62,4854,273,1261260
+React,Web Development,3847,4.6,29,5032,325,1250275
+Social Media Marketing,Digital Marketing,3171,4.7,22,14753,583,1848693
+AWS Cloud,Cloud,6547,4.8,67,10350,527,3450269
+Oracle DB,Database,4685,4.1,70,12425,522,2445570
+SQL Basics,Database,4625,4.3,70,13245,558,2580750
+Python Programming,Programming,7592,4.1,59,17518,600,4555200
+Deep Learning,Data Science,7685,4.5,67,9437,456,3504360
+Advanced SQL,Database,3909,4.3,63,5440,334,1305606
+Data Analytics,Data Science,2477,4.3,47,12145,511,1265747
+React,Web Development,2818,4.5,36,3184,271,763678
+Azure Fundamentals,Cloud,1827,4.0,40,4666,296,540792
+Oracle DB,Database,6922,4.2,70,14733,523,3620206
+Social Media Marketing,Digital Marketing,5804,4.1,31,5234,256,1485824
+Network Security,Cyber Security,4907,4.5,45,6012,334,1638938
+Machine Learning,Data Science,6934,4.2,43,12619,425,2946950
+Email Marketing,Digital Marketing,5845,4.4,55,3288,248,1449560
+MongoDB,Database,5150,4.1,61,10989,420,2163000
+MongoDB,Database,4624,4.9,80,6715,476,2201024
+Flask,Web Development,7430,4.1,78,19936,699,5193570
+Social Media Marketing,Digital Marketing,5713,4.8,48,18951,670,3827710
+React,Web Development,4124,4.4,80,6144,394,1624856
+Email Marketing,Digital Marketing,5868,3.8,24,9906,314,1842552
+Advanced SQL,Database,7114,4.3,26,9736,350,2489900
+Google Ads,Digital Marketing,6796,4.8,24,8038,335,2276660
+Google Cloud,Cloud,1810,3.9,23,8832,356,644360
+Flask,Web Development,2077,4.5,34,11475,488,1013576
+DevOps,Cloud,6662,4.3,40,3553,219,1458978
+SQL Basics,Database,5881,3.8,66,5072,283,1664323
+Oracle DB,Database,1872,4.6,24,14721,597,1117584
+Ethical Hacking,Cyber Security,3874,4.7,39,5834,351,1359774
+Google Ads,Digital Marketing,4624,4.3,62,4009,306,1414944
+Data Analytics,Data Science,3301,4.0,45,12665,479,1581179
+Deep Learning,Data Science,7048,4.9,70,15226,674,4750352
+Go Basics,Programming,6047,4.0,22,3164,157,949379
+SOC Analyst,Cyber Security,5900,4.5,25,12984,447,2637300
+MongoDB,Database,3234,4.3,61,19795,695,2247630
+Machine Learning,Data Science,3308,4.5,36,9367,405,1339740
+Data Analytics,Data Science,1945,4.8,79,18114,797,1550165
+Ethical Hacking,Cyber Security,3881,4.6,36,6217,336,1304016
+Oracle DB,Database,5491,4.9,42,7201,419,2300729
+Advanced SQL,Database,2319,4.1,24,9340,358,830202
+DevOps,Cloud,4189,4.5,39,7993,395,1654655
+Cyber Security,Cyber Security,4091,5.0,30,3158,301,1231391
+Machine Learning,Data Science,7334,4.7,47,12066,514,3769676
+React,Web Development,7067,4.7,76,18727,718,5074106
+Google Cloud,Cloud,7846,4.2,55,6566,285,2236110
+Oracle DB,Database,2171,4.8,74,7587,537,1165827
+Network Security,Cyber Security,3656,4.7,60,5505,415,1517240
+Python Programming,Programming,5654,4.6,72,16275,675,3816450
+Network Security,Cyber Security,1800,4.5,54,18469,722,1299600
+Content Marketing,Digital Marketing,4496,4.3,77,12535,529,2378384
+Docker & Kubernetes,Cloud,5681,3.9,43,19455,563,3198403
+Advanced SQL,Database,6530,4.6,68,19847,704,4597120
+Azure Fundamentals,Cloud,2967,4.5,56,7790,450,1335150
+PostgreSQL,Database,4439,3.8,68,18979,618,2743302
+C++ Programming,Programming,4526,4.1,62,9775,430,1946180
+Social Media Marketing,Digital Marketing,4679,4.4,49,4521,276,1291404
+MongoDB,Database,2345,4.6,53,11961,574,1346030
+MongoDB,Database,6240,4.5,31,15342,542,3382080
+Google Cloud,Cloud,6314,4.6,73,5550,384,2424576
+Django,Web Development,3325,4.4,42,14306,553,1838725
+Google Ads,Digital Marketing,6449,3.8,76,7553,338,2179762
+Machine Learning,Data Science,2131,4.4,37,9930,426,907806
+Machine Learning,Data Science,4467,4.5,72,6877,436,1947612
+AI Fundamentals,Data Science,4205,4.7,50,18689,702,2951910
+Data Analytics,Data Science,2820,4.6,46,3735,311,877020
+Java Programming,Programming,6198,4.5,28,19798,609,3774582
+Network Security,Cyber Security,1958,4.0,79,8899,463,906554
+Docker & Kubernetes,Cloud,6117,4.6,76,12288,588,3596796
+Java Programming,Programming,5179,4.5,50,18783,648,3355992
+AI Fundamentals,Data Science,6422,4.0,57,8959,370,2376140
+Oracle DB,Database,3666,4.0,63,14228,568,2082288
+Docker & Kubernetes,Cloud,6338,3.9,44,15630,469,2972522
+Python Programming,Programming,3157,4.4,78,19526,769,2427733
+Azure Fundamentals,Cloud,6460,3.9,50,4279,244,1576240
+Email Marketing,Digital Marketing,5623,4.7,25,18802,649,3649327
+Data Analytics,Data Science,5917,4.8,77,17139,711,4206987
+Google Cloud,Cloud,1855,4.6,47,10519,539,999845
+Google Ads,Digital Marketing,7968,4.7,42,6201,324,2581632
+Deep Learning,Data Science,5408,4.7,78,5746,408,2206464
+Pen Testing,Cyber Security,4847,4.1,20,3233,182,882154
+Ethical Hacking,Cyber Security,5757,3.8,61,9731,387,2227959
+Social Media Marketing,Digital Marketing,4849,4.2,29,16961,560,2715440
+Cyber Security,Cyber Security,3640,4.8,47,14981,632,2300480
+Django,Web Development,7684,4.0,55,18809,569,4372196
+Flask,Web Development,6045,4.4,39,14283,530,3203850
+PostgreSQL,Database,7527,4.0,75,6902,349,2626923
+AI Fundamentals,Data Science,7915,4.6,30,6285,277,2192455
+SOC Analyst,Cyber Security,7939,4.2,55,4705,236,1873604
+AWS Cloud,Cloud,2246,4.8,50,17266,678,1522788
+C++ Programming,Programming,3316,4.2,58,4237,324,1074384
+DevOps,Cloud,6529,4.6,38,4882,322,2102338
+Content Marketing,Digital Marketing,6745,4.4,20,9609,371,2502395
+Oracle DB,Database,3842,4.0,70,19729,692,2658664
+Advanced SQL,Database,6539,4.0,22,14787,420,2746380
+SQL Basics,Database,2789,3.9,37,16088,525,1464225
+PostgreSQL,Database,4821,4.5,53,3503,314,1513794
+SQL Basics,Database,2238,4.5,66,14406,620,1387560
+Social Media Marketing,Digital Marketing,3353,4.5,32,17901,662,2219686
+Docker & Kubernetes,Cloud,1538,4.1,46,19588,654,1005852
+Ethical Hacking,Cyber Security,5621,4.2,80,6834,409,2298989
+Cyber Security,Cyber Security,5906,4.8,56,11196,532,3141992
+DevOps,Cloud,6113,4.4,35,14130,517,3160421
+DevOps,Cloud,6307,4.8,50,6809,377,2377739
+JavaScript Essentials,Programming,6690,4.7,34,10534,456,3050640
+Django,Web Development,4392,4.4,20,11629,412,1809504
+HTML & CSS,Web Development,4768,4.6,72,14206,589,2808352
+Network Security,Cyber Security,5403,4.2,33,11817,402,2172006
+Advanced SQL,Database,5587,4.7,35,10931,486,2715282
+React,Web Development,3377,4.0,35,14666,477,1610829
+SEO,Digital Marketing,2482,4.9,63,19143,794,1970708
+Go Basics,Programming,1846,4.8,43,13335,597,1102062
+Cyber Security,Cyber Security,5520,4.0,68,19748,651,3593520
+Azure Fundamentals,Cloud,7645,4.5,23,16866,536,4097720
+Ethical Hacking,Cyber Security,5616,4.2,75,8727,424,2381184
+Go Basics,Programming,5268,4.2,20,3387,199,1048332
+AI Fundamentals,Data Science,6259,3.9,43,11509,368,2303312
+Cyber Security,Cyber Security,3442,4.1,59,14242,540,1858680
+AI Fundamentals,Data Science,4972,4.1,64,15199,554,2754488
+Google Ads,Digital Marketing,3790,4.3,56,7297,393,1489470
+Advanced SQL,Database,2318,4.7,71,10726,574,1330532
+DevOps,Cloud,3106,4.0,67,7900,396,1229976
+SEO,Digital Marketing,2946,4.3,28,19941,661,1947306
+MongoDB,Database,7933,4.4,36,4563,233,1848389
+Java Programming,Programming,1991,4.1,36,18615,651,1296141
+SQL Basics,Database,5185,4.7,36,14828,558,2893230
+Pen Testing,Cyber Security,3611,4.2,46,6972,341,1231351
+Email Marketing,Digital Marketing,3129,4.5,61,8719,483,1511307
+Angular,Web Development,4163,4.6,51,17645,693,2884959
+JavaScript Essentials,Programming,6527,4.1,60,7746,373,2434571
+Deep Learning,Data Science,4955,4.6,56,16263,656,3250480
+Python Programming,Programming,2827,4.2,40,13383,518,1464386
+Angular,Web Development,6459,4.6,37,17578,627,4049793
+Social Media Marketing,Digital Marketing,7626,4.5,48,16565,558,4255308
+Data Science,Data Science,2524,4.7,62,11245,591,1491684
+SQL Basics,Database,3225,4.0,26,6131,242,780450
+Docker & Kubernetes,Cloud,1940,3.8,45,5727,264,512160
+Flask,Web Development,2772,3.9,79,15774,598,1657656
+Machine Learning,Data Science,7542,4.1,60,7142,298,2247516
+Network Security,Cyber Security,1734,3.8,42,13656,508,880872
+DevOps,Cloud,5928,4.9,55,17576,665,3942120
+Oracle DB,Database,2950,4.5,49,17253,659,1944050
+Oracle DB,Database,4036,4.9,50,10442,543,2191548
+JavaScript Essentials,Programming,4022,4.2,36,8102,341,1371502
+Python Programming,Programming,5787,4.8,74,7466,454,2627298
+Django,Web Development,5883,3.8,79,19119,672,3953376
+Google Ads,Digital Marketing,3954,3.8,47,12598,447,1767438
+Data Science,Data Science,5990,4.2,46,17323,573,3432270
+Machine Learning,Data Science,7356,4.7,44,15398,553,4067868
+HTML & CSS,Web Development,4958,4.6,53,11908,505,2503790
+Oracle DB,Database,3702,4.3,74,5243,353,1306806
+Deep Learning,Data Science,2404,4.6,59,17836,696,1673184
+Oracle DB,Database,5530,4.0,21,7985,249,1376970
+Ethical Hacking,Cyber Security,3023,5.0,38,11820,535,1617305
+PostgreSQL,Database,7456,3.8,25,7937,205,1528480
+Azure Fundamentals,Cloud,4300,4.3,70,19331,702,3018600
+AWS Cloud,Cloud,4205,3.9,68,7787,343,1442315
+Django,Web Development,2084,4.5,31,9297,459,956556
+Social Media Marketing,Digital Marketing,4625,4.8,27,11157,469,2169125
+Google Ads,Digital Marketing,3524,4.7,22,9526,425,1497700
+SQL Basics,Database,5769,4.6,33,18493,626,3611394
+MongoDB,Database,4146,4.0,66,4382,310,1285260
+Pen Testing,Cyber Security,2500,4.1,60,12791,506,1265000
+HTML & CSS,Web Development,6961,4.1,27,10732,361,2512921
+Google Cloud,Cloud,1623,4.0,37,6920,325,527475
+Content Marketing,Digital Marketing,1573,5.0,57,18573,796,1252108
+Network Security,Cyber Security,4542,4.7,35,8167,406,1844052
+Go Basics,Programming,4272,4.9,68,4967,391,1670352
+React,Web Development,7245,4.4,26,7123,292,2115540
+Deep Learning,Data Science,6074,4.7,68,14380,628,3814472
+Azure Fundamentals,Cloud,1674,4.6,42,7414,410,686340
+JavaScript Essentials,Programming,7288,4.3,38,19059,583,4248904
+Network Security,Cyber Security,5953,4.2,66,18348,631,3756343
+Email Marketing,Digital Marketing,6042,4.0,53,8079,334,2018028
+Angular,Web Development,5936,4.2,20,19579,577,3425072
+Advanced SQL,Database,1653,4.5,43,10824,489,808317
+SQL Basics,Database,6892,5.0,72,15697,656,4521152
+SOC Analyst,Cyber Security,7772,4.5,59,12277,481,3738332
+Google Cloud,Cloud,2404,3.9,62,5184,287,689948
+Content Marketing,Digital Marketing,2963,4.8,32,6507,390,1155570
+Data Science,Data Science,1760,4.5,73,15733,693,1219680
+Docker & Kubernetes,Cloud,6611,4.6,36,4608,273,1804803
+Data Analytics,Data Science,7380,3.9,79,9839,414,3055320
+AWS Cloud,Cloud,5334,4.8,23,14826,554,2955036
+PostgreSQL,Database,4523,4.8,23,11710,485,2193655
+Python Programming,Programming,3989,3.9,33,6182,238,949382
+Advanced SQL,Database,5855,4.3,32,11151,415,2429825
+Advanced SQL,Database,6074,4.7,46,6457,384,2332416
+Oracle DB,Database,4432,4.6,64,16994,699,3097968
+Java Programming,Programming,7991,4.0,45,19537,573,4578843
+Advanced SQL,Database,5873,5.0,48,14544,637,3741101
+Flask,Web Development,4159,4.8,46,17109,689,2865551
+MongoDB,Database,6484,4.1,54,10009,387,2509308
+Email Marketing,Digital Marketing,7599,4.1,48,17663,553,4202247
+Python Programming,Programming,3830,4.5,53,7426,433,1658390
+HTML & CSS,Web Development,3960,5.0,33,13318,544,2154240
+Social Media Marketing,Digital Marketing,6035,4.4,56,8069,366,2208810
+JavaScript Essentials,Programming,4413,4.0,36,15028,522,2303586
+Network Security,Cyber Security,3408,4.1,39,6011,307,1046256
+Docker & Kubernetes,Cloud,3281,4.7,66,13639,639,2096559
+Azure Fundamentals,Cloud,5499,4.8,64,6124,420,2309580
+MongoDB,Database,1806,4.7,56,15502,639,1154034
+SEO,Digital Marketing,7815,4.2,76,17231,609,4759335
+SEO,Digital Marketing,7811,4.1,61,3374,234,1827774
+Google Ads,Digital Marketing,1943,4.2,22,13463,488,948184
+Network Security,Cyber Security,4177,4.4,34,8019,341,1424357
+PostgreSQL,Database,5150,4.7,56,19538,699,3599850
+AI Fundamentals,Data Science,3873,4.7,29,7331,371,1436883
+JavaScript Essentials,Programming,6181,4.7,55,16080,608,3758048
+JavaScript Essentials,Programming,5610,4.3,64,7272,397,2227170
+AI Fundamentals,Data Science,6081,4.0,45,9425,358,2176998
+Pen Testing,Cyber Security,3517,4.1,37,17092,563,1980071
+Oracle DB,Database,2233,3.9,46,16878,571,1275043
+React,Web Development,4127,4.2,61,3793,312,1287624
+React,Web Development,4364,4.5,71,17490,697,3041708
+AI Fundamentals,Data Science,1867,4.9,34,9543,508,948436
+React,Web Development,7707,4.7,25,6682,325,2504775
+Java Programming,Programming,6587,4.9,75,12426,560,3688720
+HTML & CSS,Web Development,3999,4.3,21,13874,461,1843539
+Oracle DB,Database,3235,4.0,53,11475,461,1491335
+Docker & Kubernetes,Cloud,7479,5.0,64,3602,342,2557818
+Pen Testing,Cyber Security,1856,4.1,23,12306,428,794368
+Email Marketing,Digital Marketing,3722,3.9,61,3273,223,830006
+Google Cloud,Cloud,6931,4.8,62,14803,632,4380392
+Python Programming,Programming,3896,4.8,61,15665,648,2524608
+Docker & Kubernetes,Cloud,7313,3.9,40,18881,577,4219601
+Pen Testing,Cyber Security,2221,4.0,52,18007,635,1410335
+SQL Basics,Database,1825,4.1,53,12991,514,938050
+DevOps,Cloud,7598,4.0,42,14531,448,3403904
+MongoDB,Database,3434,5.0,52,12039,607,2084438
+C++ Programming,Programming,4671,4.9,72,3965,426,1989846
+Cyber Security,Cyber Security,3347,4.0,77,15872,624,2088528
+Data Science,Data Science,7479,4.3,63,10452,429,3208491
+Data Analytics,Data Science,2751,4.3,39,13790,526,1447026
+Network Security,Cyber Security,3193,4.6,57,9629,515,1644395
+Deep Learning,Data Science,7140,4.6,53,7431,375,2677500
+Content Marketing,Digital Marketing,6875,4.9,78,8178,476,3272500
+Go Basics,Programming,5866,4.9,27,9033,408,2393328
+Content Marketing,Digital Marketing,7456,3.8,40,16567,476,3549056
+Django,Web Development,7608,4.9,77,11971,549,4176792
+Content Marketing,Digital Marketing,2374,4.0,21,11744,417,989958
+Pen Testing,Cyber Security,3391,4.5,34,3854,277,939307
+JavaScript Essentials,Programming,2598,4.4,58,18360,709,1841982
+MongoDB,Database,3007,4.8,51,18527,705,2119935
+Machine Learning,Data Science,3353,3.8,68,3491,290,972370
+Django,Web Development,3323,4.7,32,9703,427,1418921
+AI Fundamentals,Data Science,6554,4.4,40,17992,625,4096250
+AI Fundamentals,Data Science,4816,4.7,58,15464,646,3111136
+Django,Web Development,6509,4.9,56,4261,352,2291168
+JavaScript Essentials,Programming,5242,4.8,22,11051,457,2395594
+SOC Analyst,Cyber Security,7522,3.8,44,19912,589,4430458
+SQL Basics,Database,3055,4.1,45,12979,511,1561105
+Social Media Marketing,Digital Marketing,5279,4.0,38,4787,247,1303913
+Network Security,Cyber Security,5297,4.8,48,5963,394,2087018
+Ethical Hacking,Cyber Security,2972,4.7,80,7433,491,1459252
+Google Cloud,Cloud,5193,3.8,49,9616,379,1968147
+AWS Cloud,Cloud,3548,4.2,61,8373,429,1522092
+SQL Basics,Database,2247,3.9,48,14892,507,1139229
+SOC Analyst,Cyber Security,7454,4.7,52,8239,398,2966692
+SOC Analyst,Cyber Security,1859,4.7,78,13983,676,1256684
+Content Marketing,Digital Marketing,2828,4.8,31,4681,339,958692
+Angular,Web Development,7481,4.7,48,12462,512,3830272
+Data Science,Data Science,2577,5.0,20,11293,484,1247268
+DevOps,Cloud,5584,4.5,20,19169,598,3339232
+Data Analytics,Data Science,6902,4.4,46,17479,569,3927238
+Pen Testing,Cyber Security,1553,4.1,55,12113,518,804454
+Oracle DB,Database,3200,3.9,29,4804,241,771200
+HTML & CSS,Web Development,2690,4.8,62,12779,600,1614000
+Python Programming,Programming,2392,4.3,31,8286,392,937664
+Flask,Web Development,6914,4.6,58,8813,424,2931536
+Oracle DB,Database,4450,4.9,25,12807,516,2296200
+Django,Web Development,2054,4.7,73,5127,424,870896
+Azure Fundamentals,Cloud,2499,4.6,37,13787,566,1414434
+Docker & Kubernetes,Cloud,3219,4.6,59,4906,352,1133088
+Pen Testing,Cyber Security,2218,4.4,64,12410,559,1239862
+Cyber Security,Cyber Security,3627,4.4,59,14595,618,2241486
+Data Analytics,Data Science,6109,4.4,66,19309,691,4221319
+Content Marketing,Digital Marketing,6492,4.1,38,9342,314,2038488

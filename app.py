@@ -27,7 +27,7 @@ def dashboard():
 
     total_students = df["Students_Enrolled"].sum()
     
-    average_price = round(df["Pprice"].mean(), 2)
+    average_price = round(df["Price"].mean(), 2)
 
     return render_template(
         "dashboard.html",
@@ -125,7 +125,7 @@ def predict():
        "result.html",
        predicted_students=round(predicted_students, 2),
        prediction=predicted_students,
-       revenue=round(expected_revenue, 2),
+       revenue = "{:,.2f}".format(expected_revenue),
        demand=demand,
        chart="images/chart1.png"
 )

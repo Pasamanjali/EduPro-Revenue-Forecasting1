@@ -26,7 +26,7 @@ href="{{ url_for('static', filename='css/style.css') }}">
 <h2>Estimated Revenue</h2>
 
 <h1>₹ {{ revenue }}</h1>
-<h2>Revenue Chart</h2>
+<h2>Marketing Spend vs Student Enrollment</h2>
 
 <img src="{{ url_for('static', filename='images/chart1.png') }}"
      alt="Revenue Chart"
@@ -34,7 +34,10 @@ href="{{ url_for('static', filename='css/style.css') }}">
 
 <h2>Demand Level</h2>
 
-<h3>{{ demand }}</h3>
+
+<h2 style="text-align:center; color:green;">
+    High Demand 🔥
+</h2>
 
 </div>
 
@@ -43,11 +46,16 @@ href="{{ url_for('static', filename='css/style.css') }}">
 <a href="/">
 
     <button>
-        Predicted Again
+        Make Another Prediction
     </button>
 </a>
 
+<hr>
 
+<footer class="footer">
+    <p>Internship Project | Unified Mentor Private Limited (1 Month)</p>
+    <p>Developed using Python, Flask & Machine Learning</p>
+</footer>
 </div>
 
 </body>

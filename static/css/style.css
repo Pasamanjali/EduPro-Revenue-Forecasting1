@@ -66,3 +66,16 @@ img {
     border-radius: 10px;
 
 }
+
+.footer {
+    text-align: center;
+    margin-top: 35px;
+    padding: 20px;
+    color: #666;
+    font-size: 15px;
+    border-top: 1px solid #ddd;
+}
+
+.footer p {
+    margin: 5px 0;
+}
